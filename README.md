@@ -1,1 +1,2 @@
 # EveryDayLeetCode
+本Github repository是用来记录LeetCode每日一题的
