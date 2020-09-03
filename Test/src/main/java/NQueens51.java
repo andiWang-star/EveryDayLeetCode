@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Nqueens {
+public class NQueens51 {
     //八皇后问题，同行，同列，同斜线上的皇后会攻击
     //右对角线的坐标关系，行坐标和列坐标之差相等，
     //左对角线的坐标关系，行坐标和列坐标之和相等
